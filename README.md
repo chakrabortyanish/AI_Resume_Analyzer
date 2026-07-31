@@ -26,7 +26,7 @@ The complete source code is maintained in a private repository.
     Express.js
 
 #### AI Integration:
-    Groq API (GPT)
+    Groq API
 
 #### Other Tools:
     Multer (file upload)
